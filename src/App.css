@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.Home {
+  background-color: aqua;
+  height: 80vh;
+}
+
+.About {
+  background-color: bisque;
+  height: 80vh;
+}
+
+.Services {
+  background-color: lightcoral;
+  height: 80vh;
+}
